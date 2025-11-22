@@ -19,14 +19,14 @@ The report studies:
 - Who has true long-term advantage and why  
 
 
-## 🎥 Live Demo Preview (GIF)
+## Report Snapshot
 
 <p align="center">
   <img src="https://github.com/AppyDange/strategy-analysis-of-ai-in-healthcare-industry/blob/main/ScreenRecording2025-11-21at4.22.11PM-ezgif.com-video-to-gif-converter%20(1).gif?raw=true" 
        alt="Interactive Demo GIF" width="40%" />
 </p>
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. Introduction  
 2. Literature Review  
