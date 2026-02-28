@@ -16,14 +16,21 @@ The report studies:
 - Competitive dynamics (Microsoft, Google, IBM)  
 - Strategy frameworks (Five Forces, RBV, VRIO, Core Competencies)  
 - Corporate & cooperative strategies  
-- Who has true long-term advantage and why  
+- Who has true long-term advantage and why
 
+
+## Strategy Analysis on AI in Healthcare Industry Presentation
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/strategy_analysis_ai_healthcare_industry/blob/main/AI%20in%20Healthcare.gif?raw=true" 
+       alt="Interactive Demo GIF" width="80%" />
+</p>
 
 ## Report Snapshot
 
 <p align="center">
   <img src="https://github.com/AppyDange/strategy-analysis-of-ai-in-healthcare-industry/blob/main/ScreenRecording2025-11-21at4.22.11PM-ezgif.com-video-to-gif-converter%20(1).gif?raw=true" 
-       alt="Interactive Demo GIF" width="40%" />
+       alt="Interactive Demo GIF" width="65%" />
 </p>
 
 ## Table of Contents
