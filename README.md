@@ -26,6 +26,9 @@ The report studies:
        alt="Interactive Demo GIF" width="80%" />
 </p>
 
+## 📄 Full Presentation  
+👉 [**See Presentation Here**](https://github.com/apurva-dange/strategy_analysis_ai_healthcare_industry/blob/main/Team5_FP8_11302025%20(1).pdf)
+
 ## Report Snapshot
 
 <p align="center">
